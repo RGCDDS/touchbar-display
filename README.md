@@ -128,7 +128,7 @@ cd touchbar-display
 
 ## 素材来源
 
-九套动画素材来自 B 站 UP 主的壁纸视频，仅作个人学习和非商业用途。如果你要 fork 这个项目，建议换成自己有版权的素材——用 `tools/prepare_frames.sh` 抽帧替换即可，代码不用改。
+九套动画素材来自 B站21年网页夏日头图，仅作个人学习和非商业用途。如果你要 fork 这个项目，建议换成自己有版权的素材——用 `tools/prepare_frames.sh` 抽帧替换即可，代码不用改。
 
 ## License
 
